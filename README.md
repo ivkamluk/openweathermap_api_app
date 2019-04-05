@@ -27,6 +27,7 @@ private String UNITS = "metric";
 ```
 open cmd 
 make cd to_your_folder
+make cd to_src_folder
 ```
 and run this **WeatherServer** commands
 ```bash
@@ -49,6 +50,7 @@ PAUSE
 ```
 open terminal
 make cd to_your_folder
+make cd to_src_folder
 ```
 run **WeatherServer** commands
 ```bash
