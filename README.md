@@ -3,7 +3,8 @@
 
 ## Pre-run initializing
 1. Sign up at OpenWeatherMap and get your [API key](https://home.openweathermap.org/api_keys).
-1. Select your city id and modify these rows at the _OpenWeatherMap.java_ file.
+1. Select your city id at the file __list_id_cities.txt__ (_last edition was 5.04.2019_)
+1. Modify these rows at the _OpenWeatherMap.java_ file.
 ```java
 private	String API_KEY = "YOUR_API_KEY"; 
 private	String CITY_ID = "YOUR_CITY_ID"; 
